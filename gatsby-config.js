@@ -3,9 +3,9 @@ module.exports = {
     {
       resolve: "smooth-doc",
       options: {
-        name: "Smooth DOC Starter",
-        description: "Use your own description...",
-        siteUrl: "https://example.com",
+        name: "Paylivre POC - smooth DOC",
+        description: "Este é uma POC para conhecer o smooth DOC",
+        siteUrl: "https://paylivre-documentation-sd-android.com",
       },
     },
   ],
