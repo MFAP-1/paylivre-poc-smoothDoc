@@ -13,4 +13,5 @@ module.exports = {
       },
     },
   ],
+  pathPrefix: "/paylivre-poc-smoothDoc",
 };
